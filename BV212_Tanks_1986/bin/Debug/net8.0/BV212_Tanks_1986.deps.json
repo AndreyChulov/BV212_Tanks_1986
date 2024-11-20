@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BV212_Tanks_1986/1.0.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2024.2.0-eap1"
+        },
+        "runtime": {
+          "BV212_Tanks_1986.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2024.2.0-eap1": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2024.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BV212_Tanks_1986/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JetBrains.Annotations/2024.2.0-eap1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Lo1vPRhwSNKz8ZN4lLiLEl7oEiojvS3/q/eSLHl6Av/CVEgfbhoDE8CjHZ9W3xSrM2Dv6gY3RprrX5fVQfz1cA==",
+      "path": "jetbrains.annotations/2024.2.0-eap1",
+      "hashPath": "jetbrains.annotations.2024.2.0-eap1.nupkg.sha512"
+    }
+  }
+}

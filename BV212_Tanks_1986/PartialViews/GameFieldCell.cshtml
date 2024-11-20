@@ -1,0 +1,22 @@
+﻿@using BV212_Tanks_1986.Models.Enums
+@model BV212_Tanks_1986.Models.Enums.CellTile
+
+@switch (Model)
+{
+    case CellTile.Brick:
+        <div class="BrickCell"></div>
+        break;
+    case CellTile.Empty:
+        <div class="EmptyCell"></div>
+        break;
+    case CellTile.FriendlyBase:
+        <div class="FriendlyBaseCell"></div>
+        break;
+    case CellTile.EnemyBase:
+        <div class="EnemyBaseCell"></div>
+        break;
+    case CellTile.BadRock:
+        <div class="BadRockCell"></div>
+        break;
+}
+
