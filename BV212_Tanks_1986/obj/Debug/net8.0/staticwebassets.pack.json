@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BV212_Tanks_1986.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BV212_Tanks_1986.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\fonts\\FiraMono-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FiraMono-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\fonts\\FiraSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FiraSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\levels.ldtk",
+      "PackagePath": "staticwebassets\\assets\\levels.ldtk"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\levels_namcot_original_35.ldtk",
+      "PackagePath": "staticwebassets\\assets\\levels_namcot_original_35.ldtk"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\big_explosion.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\big_explosion.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\bullet_explosion.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\bullet_explosion.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\bullet_hit_1.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\bullet_hit_1.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\bullet_hit_2.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\bullet_hit_2.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\game_over.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\game_over.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\game_pause.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\game_pause.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\mode_switch.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\mode_switch.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\player_fire.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\player_fire.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\powerup_appear.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\powerup_appear.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\powerup_pick.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\powerup_pick.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\sounds\\start_menu.ogg",
+      "PackagePath": "staticwebassets\\assets\\sounds\\start_menu.ogg"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\Explode1.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\Explode1.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\Explode2.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\Explode2.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\Flag.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\Flag.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\General-Sprites.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\General-Sprites.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\UIView.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\UIView.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\big_explosion_1.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\big_explosion_1.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\big_explosion_2.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\big_explosion_2.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\big_explosion_3.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\big_explosion_3.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\big_explosion_4.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\big_explosion_4.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\big_explosion_5.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\big_explosion_5.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\bonus.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\bonus.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\born.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\born.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\bullet.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\bullet.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\bullet_explosion_1.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\bullet_explosion_1.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\bullet_explosion_2.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\bullet_explosion_2.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\bullet_explosion_3.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\bullet_explosion_3.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\game_over.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\game_over.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\map.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\map.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\map.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\map.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\sprite.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\sprite32.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\sprite32.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\spriteMapObjects32.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\spriteMapObjects32.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\spriteTanks32.png",
+      "PackagePath": "staticwebassets\\assets\\textures\\spriteTanks32.png"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\assets\\textures\\title.bmp",
+      "PackagePath": "staticwebassets\\assets\\textures\\title.bmp"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\css\\Game.css",
+      "PackagePath": "staticwebassets\\css\\Game.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\css\\loginForm.css",
+      "PackagePath": "staticwebassets\\css\\loginForm.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\js\\Game.js",
+      "PackagePath": "staticwebassets\\js\\Game.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\js\\keyboard.js",
+      "PackagePath": "staticwebassets\\js\\keyboard.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\js\\loginForm.js",
+      "PackagePath": "staticwebassets\\js\\loginForm.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BV212_Tanks_1986.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BV212_Tanks_1986.props",
+      "PackagePath": "build\\BV212_Tanks_1986.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BV212_Tanks_1986.props",
+      "PackagePath": "buildMultiTargeting\\BV212_Tanks_1986.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BV212_Tanks_1986.props",
+      "PackagePath": "buildTransitive\\BV212_Tanks_1986.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

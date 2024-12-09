@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BV212_Tanks_1986.props" />
+</Project>

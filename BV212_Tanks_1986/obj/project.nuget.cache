@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4tvlF3poW44s4zo/YbMJerUh6O7G6MNc33lK23QRmJa3tuvsCgCv0mSE63uD5Y7h15Kq4piLLdiLVZyj+TRXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ASP .NET Core\\BV212_Tanks_1986\\BV212_Tanks_1986\\BV212_Tanks_1986.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\jetbrains.annotations\\2024.2.0-eap1\\jetbrains.annotations.2024.2.0-eap1.nupkg.sha512"
+  ],
+  "logs": []
+}
